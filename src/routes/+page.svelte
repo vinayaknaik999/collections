@@ -1,1 +1,5 @@
-<h1>This is test from idx</h1>
+<script lang="ts">
+
+  </script>
+  
+  <a href="/dashboard">dashboard</a>
